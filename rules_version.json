@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-03-18",
+  "files": [
+    "dictionary_base.json",
+    "mall_name.json",
+    "category_filter_terms.json"
+  ],
+  "changelog": "초기 버전"
+}
