@@ -82703,5 +82703,30 @@
     "word": "ZIGZAG",
     "type": "brand_token",
     "action": "brand_clear_row"
+  },
+  {
+    "word": "해외도서",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "해외서적",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "아트북",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "바이닐",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "엘피 바이닐",
+    "type": "forbidden",
+    "action": "remove_word"
   }
 ]
