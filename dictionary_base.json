@@ -5641,8 +5641,8 @@
   },
   {
     "word": "wmf",
-    "type": "forbidden",
-    "action": "remove_word"
+    "type": "brand_token",
+    "action": "brand_clear_row"
   },
   {
     "word": "아사히",
@@ -38396,8 +38396,8 @@
   },
   {
     "word": "SPARCO",
-    "type": "forbidden",
-    "action": "remove_word"
+    "type": "brand_token",
+    "action": "brand_clear_row"
   },
   {
     "word": "SPHYNX",
@@ -82596,6 +82596,111 @@
   },
   {
     "word": "Leuze",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "호킨스",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Adhoc",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "에드혹",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Eva Solo",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "에바솔로",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "HZRDUS",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "헤저더스",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Denali",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Hazet",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "하제트",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Bark River",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "바크리버",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "DISCDREAM",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "ICKB",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "PINA PRO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "피나 프로",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Magpul",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "맥풀",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "폴스포텐",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "녹스기어",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "ZIGZAG",
     "type": "brand_token",
     "action": "brand_clear_row"
   }
