@@ -82133,5 +82133,470 @@
     "word": "[관세 포함]",
     "type": "forbidden",
     "action": "remove_word"
+  },
+  {
+    "word": "De Buyer",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Zwilling",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "WESCO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Doppo",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Beurer",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "GSD",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Menzerna",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "OBSBOT",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "ONDA",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "EaJ",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "BYNEAR",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "GUBI",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Nordlux",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "MARSET",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Qeeboo",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "REXITE",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "E15",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Laetitia Rouget",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Armina",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Holmegaard",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Alfa",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Barro",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "MOGAMI",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "MEINL",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "KORG",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Roland",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Pioneer DJ",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Darkglass",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Mad Professor",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Petla",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Yinfente",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Ballistics",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "DOD도플갱어",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Forged Flambadou",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "SDI TDI",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "APEKS",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "AQUAZ",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "SCUBAPRO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "OCEANARIUM",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "MEW",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "SANTI",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "ALLDOCUBE",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "PRITOM",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "IETS",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "XCY",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "COLO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "AZIO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "TPLink",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Anycubic",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "SUNLU",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "ToolkitRC",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "JONR",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Fanttik",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Bitkey",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "FUJIFILM",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Yongnuo",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Blast Motion",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "IFM",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "HIOKI",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Sanyou",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "UEi",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "HIOS",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "VESSEL",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Strong Hand",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "KS Tools",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "MEAN WELL",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Weidmuller",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "ANEX",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Dicor",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Cirkul",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Incrediwear",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "THRIVE",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "JEGS",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "BGT",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Rough Country",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "CMC",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Li-Ning",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "LiNing",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "TT&CO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "K-SPEED",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "RS타이치",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "TRINITY",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "BRID",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Gutermann",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Gingher",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "IKEHIKO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "RovyVon",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "NOCO",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Poopsie",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "SIEMENS",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "TEMPUR",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "MEETUP",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "Leuze",
+    "type": "brand_token",
+    "action": "brand_clear_row"
   }
 ]
