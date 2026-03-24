@@ -6,12 +6,12 @@
   },
   {
     "word": "샤넬",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "DHC",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "word": "나이키",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "아디다스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "word": "폴로",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "word": "자라",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "ZARA",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -176,12 +176,12 @@
   },
   {
     "word": "adidas",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "nike",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -286,12 +286,12 @@
   },
   {
     "word": "쌤쏘나이트",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "샘소나이트",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -306,37 +306,37 @@
   },
   {
     "word": "윌슨",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "아식스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "요넥스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "코치",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "COACH",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "더로우",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "the row",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -356,12 +356,12 @@
   },
   {
     "word": "Porsche",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "BMW",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -371,7 +371,7 @@
   },
   {
     "word": "volvo",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -406,12 +406,12 @@
   },
   {
     "word": "ArcTeryx",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "아크테릭스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "word": "Samsonite",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "word": "apple",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "word": "barbour",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "word": "버버리",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -521,12 +521,12 @@
   },
   {
     "word": "DANTON",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "단톤",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "word": "세이코",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -566,7 +566,7 @@
   },
   {
     "word": "파타고니아",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -611,22 +611,22 @@
   },
   {
     "word": "프라다",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "펜디",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "르메르",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "LEMAIRE",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "word": "Wilson",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "word": "Beats",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "word": "Nintendo",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -806,12 +806,12 @@
   },
   {
     "word": "Gucci",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "구찌",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -846,7 +846,7 @@
   },
   {
     "word": "랄프로렌",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -861,7 +861,7 @@
   },
   {
     "word": "로렌랄프로렌",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -871,12 +871,12 @@
   },
   {
     "word": "비트라",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "Vitra",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1001,7 +1001,7 @@
   },
   {
     "word": "쌤소나이트",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1106,7 +1106,7 @@
   },
   {
     "word": "소니",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1161,12 +1161,12 @@
   },
   {
     "word": "푸마",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "포르쉐",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1216,12 +1216,12 @@
   },
   {
     "word": "마지스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "MAGIS",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1241,7 +1241,7 @@
   },
   {
     "word": "몽클레어",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1271,12 +1271,12 @@
   },
   {
     "word": "오스프리",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "오클리",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1306,7 +1306,7 @@
   },
   {
     "word": "Citizen",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1346,7 +1346,7 @@
   },
   {
     "word": "Moncler",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1381,7 +1381,7 @@
   },
   {
     "word": "TIMEX",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1396,7 +1396,7 @@
   },
   {
     "word": "타이맥스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1566,7 +1566,7 @@
   },
   {
     "word": "PUMA",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1581,12 +1581,12 @@
   },
   {
     "word": "Cartier",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "까르띠에",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1606,12 +1606,12 @@
   },
   {
     "word": "롤렉스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "로렉스",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1621,7 +1621,7 @@
   },
   {
     "word": "BOSE",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -1891,7 +1891,7 @@
   },
   {
     "word": "폴로랄프로렌",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2016,7 +2016,7 @@
   },
   {
     "word": "PXG",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2031,7 +2031,7 @@
   },
   {
     "word": "PING",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2061,12 +2061,12 @@
   },
   {
     "word": "캘러웨이",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "Callaway",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2081,12 +2081,12 @@
   },
   {
     "word": "말본",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
     "word": "Malbon",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "카르티에",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2256,7 +2256,7 @@
   },
   {
     "word": "SEIKO",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2461,7 +2461,7 @@
   },
   {
     "word": "chanel",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2661,7 +2661,7 @@
   },
   {
     "word": "몽클레르",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2856,7 +2856,7 @@
   },
   {
     "word": "Yonex",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2956,7 +2956,7 @@
   },
   {
     "word": "ASICS",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -2991,7 +2991,7 @@
   },
   {
     "word": "발렌티노",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -5276,7 +5276,7 @@
   },
   {
     "word": "Burberry",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
   },
   {
@@ -5700,17 +5700,7 @@
     "action": "remove_word"
   },
   {
-    "word": "寃뚯엫??댄?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "怨⑦봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉퐯",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -5721,31 +5711,6 @@
   },
   {
     "word": "?ㅼ씠?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붽렛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱퐫?ㅽ뀒",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덇퀬",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈퉿",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉뒪?ъ궘",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -5780,17 +5745,7 @@
     "action": "remove_word"
   },
   {
-    "word": "釉붾（?덉씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "鍮꾨늻",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "鍮꾨컮?댁븘",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -5800,37 +5755,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?곗뼇遺꾩쑀",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱꽦?꾩옄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댄뫖",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?밸쭏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚰뙆?몄뒪?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좏뵆",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -5840,32 +5765,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?깆넀",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ뱶?쇳벝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?肄붾（",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁꽭?대??쇱?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆깮濡쒕옉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮씪",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -5880,62 +5780,7 @@
     "action": "remove_word"
   },
   {
-    "word": "移대Ⅴ?곗뿉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮Ъ?ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ씤?붿뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "??댁튂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊꼫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곕낫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇳벝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대줈?꾪봽濡쒕젋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒓뎅珥앺뙋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?μ닔",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?띿쭊",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩??꾨쫫",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -5945,52 +5790,7 @@
     "action": "remove_word"
   },
   {
-    "word": "0.6?몃?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "100%援?궡?앹궛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "10?꾩씪湲곗옣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "150?싳떆?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "15?몄튂?쇳꽣洹몃┰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "174X?쒓낢",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "20?⑥뒪湲?щ툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "21?덇?由ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "23?덇?由ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "23?덇?由ъ뒪lt",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6010,37 +5810,12 @@
     "action": "remove_word"
   },
   {
-    "word": "361?딞PEDE",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "3D 怨≪꽑",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "4?⑥뒪湲?щ툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "4iiii?뚯썙誘명꽣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "5.11?좊컻",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "5kg?붿컡",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "68?꾩썾吏",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6065,11 +5840,6 @@
     "action": "remove_word"
   },
   {
-    "word": "怨좎뼱?띿뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "怨듭떇",
     "type": "forbidden",
     "action": "remove_word"
@@ -6080,52 +5850,7 @@
     "action": "remove_word"
   },
   {
-    "word": "援?궡諛쒖넚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "援?궡珥앺뙋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "援?궡AS",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "源뚮Ⅴ?좎뿉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "瑗쇰뜲媛瑜댁넚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섎굹誘몄뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁뀛?먯??ㅺ렇?섑뵿",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ씠泥섑븯?댄겕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃떎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄뒪?띿뒪",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6145,47 +5870,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?붿돩?⑺넗由촼?뚮읆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿삱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿썡?몃같?곕━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱뒪?щⅤ?곕컮",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾪봽濡쒕젋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉븣留덈뱶由щ뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "濡쒕젋?꾪봽濡쒕젋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "濡쒗띁",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "猷곕（?덈が",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6205,17 +5890,7 @@
     "action": "remove_word"
   },
   {
-    "word": "由щ컮?댁뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "由щ났",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留덈겮??8v?명솚",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6246,11 +5921,6 @@
   },
   {
     "word": "紐쎈꺼",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "紐쏀겢?덉뼱",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6300,11 +5970,6 @@
     "action": "remove_word"
   },
   {
-    "word": "踰꾩쫰由?뒯",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "踰꾩펲?ㅽ긽",
     "type": "forbidden",
     "action": "remove_word"
@@ -6316,11 +5981,6 @@
   },
   {
     "word": "踰좊Ⅴ?ъ껜",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "踰좎뒪?몃떎?대툕",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6375,42 +6035,7 @@
     "action": "remove_word"
   },
   {
-    "word": "鍮꾨퉬?덉썾?ㅽ듃?곕뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "鍮뚮씪伊щ뱶?덈툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ъ슦?ㅼ??댄봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱꽦",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱넀泥댁뼱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅻ꽟",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좉??쇱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮땲",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6435,192 +6060,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅽ??곕툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅽ넠?꾩씪?쒕뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?щ씪?대씫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ш??쇱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨룞",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨뵒?ㅼ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨Ⅴ留덈땲",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩퓼?꾪뵿",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?닿렇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대돱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대돱怨⑦봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃뜑?꾨㉧",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮Ⅴ硫붿뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뗭뿉?댁튂?ㅼ뿞",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먰봽?⑥씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좏룷由ъ삤?꾨Ⅴ留덈땲",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉빟",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉빟?곹뭹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊떚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅻ땲痢좎뭅",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "?ㅻ뵩?몄씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ뒪?꾨━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅽ뵂?밴?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ъ젨",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "??대뱶?듦?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮━?붿뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯뒯",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊땲?대줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좎븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대뜽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먰겕裕덉뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿뒪?ъ툩",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ш퀬 ?쒖젙?좎씤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뺥뭹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒖씠由곕뱶踰꾧렇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒗븳?섎웾理쒖?",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6646,11 +6091,6 @@
   },
   {
     "word": "易붾━臾댁궗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뗭같?ㅼ븻?ㅼ뒪",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6690,11 +6130,6 @@
     "action": "remove_word"
   },
   {
-    "word": "肄뷀넗?띿떆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅼ쫰",
     "type": "forbidden",
     "action": "remove_word"
@@ -6710,87 +6145,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?誘명옄?쇨굅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯씪?щ찓?대뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚰겕癒쇳듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊━踰꾩튂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좎쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?⑤퉬?ㅽ듃",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "?밸퀎?됱궗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗뼱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯슫?곗퐫由ъ븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섎뜑?쒗봽?뚯쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕뵒",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ы떞",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃쭏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒯",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁쇅/臾대같",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃낫?덉튂",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6801,11 +6161,6 @@
   },
   {
     "word": "allkisscafe",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "amg?좎벙",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6826,18 +6181,8 @@
   },
   {
     "word": "asics",
-    "type": "brand",
+    "type": "brand_token",
     "action": "brand_clear_row"
-  },
-  {
-    "word": "baile?꾩퐫?붿뼵",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "BALENCIAGA?몃젅?대떇",
-    "type": "forbidden",
-    "action": "remove_word"
   },
   {
     "word": "big agnes",
@@ -6865,17 +6210,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?딟UTTERFLY",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "CAMPOUT",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?딠ARLYN",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -6891,11 +6226,6 @@
   },
   {
     "word": "CRANSTON",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?딠UBELITE",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7040,16 +6370,6 @@
     "action": "remove_word"
   },
   {
-    "word": "?딮OPENHAGEN",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?땖openhagenfur",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "lautie",
     "type": "forbidden",
     "action": "remove_word"
@@ -7096,16 +6416,6 @@
   },
   {
     "word": "neakasa",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?딳IGEL",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?땙igelcabourn",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7180,11 +6490,6 @@
     "action": "remove_word"
   },
   {
-    "word": "?땣tereovinyls",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "sulaite",
     "type": "forbidden",
     "action": "remove_word"
@@ -7201,11 +6506,6 @@
   },
   {
     "word": "SYANSPAN",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?딻AW&TOW",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7300,37 +6600,12 @@
     "action": "remove_word"
   },
   {
-    "word": "留덊겕?쒖씠肄μ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?щ줉?쨣諛붾쾭",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "瑜댁퓼瑜댁젣洹몃쫯",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "諛붿삤諛붿삤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "紐쏀겢?덈Ⅴ",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈굹?섏씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?묓궎?",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7350,32 +6625,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?뚯슦?뚯슦",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "AC諛?",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "?붿퐫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "釉붾（?ъ뒪湲곗뼱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾧렇?ㅼ퐫",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7390,37 +6645,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?뚮━痢좏뵆由ъ쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "(?붿돩?⑺넗由촼?뚮읆)",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "(紐⑤뱺鍮꾩슜?ы븿)",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "(諛붾줈諛쒖넚)",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "(?ш퀬 ?쒖젙?좎씤)",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "(?밸퀎?됱궗)",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[2?붿옄??",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7435,67 +6665,7 @@
     "action": "remove_word"
   },
   {
-    "word": "[怨듭떇?먮ℓ??",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[怨듭떇?먮ℓ泥?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[援?궡AS]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[援?궡諛쒖넚]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?붾늻踰?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?덉빟]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?덉빟?곹뭹]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?ㅽ뵂?밴?]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "[?ъ젨]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?쇰낯援щℓ???",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?뺥뭹]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?쒗븳?섎웾理쒖?]",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "[?댁쇅/臾대같]",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7645,11 +6815,6 @@
     "action": "remove_word"
   },
   {
-    "word": "dod3m",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "dosnoventa",
     "type": "forbidden",
     "action": "remove_word"
@@ -7695,11 +6860,6 @@
     "action": "remove_word"
   },
   {
-    "word": "f22?⑺꽣?꾨씪紐⑤뜽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "f22紐⑦삎",
     "type": "forbidden",
     "action": "remove_word"
@@ -7711,11 +6871,6 @@
   },
   {
     "word": "fd泥댁뼱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "ffwd?곗뭡",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -7810,11 +6965,6 @@
     "action": "remove_word"
   },
   {
-    "word": "g留⑦넗?쇰젢",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "hale",
     "type": "forbidden",
     "action": "remove_word"
@@ -7846,11 +6996,6 @@
   },
   {
     "word": "hiaw200",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "hilton?대텋",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -8045,11 +7190,6 @@
     "action": "remove_word"
   },
   {
-    "word": "ktm?먯폆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "l1500598",
     "type": "forbidden",
     "action": "remove_word"
@@ -8190,11 +7330,6 @@
     "action": "remove_word"
   },
   {
-    "word": "mgsd諛쒕컮?좎뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "minijumbuk",
     "type": "forbidden",
     "action": "remove_word"
@@ -8226,11 +7361,6 @@
   },
   {
     "word": "mr1612v",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "mu?쇳꽣而ㅻ쾭",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -8386,11 +7516,6 @@
   },
   {
     "word": "Pikaboost",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "pingg430?쒕씪?대쾭",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -8695,11 +7820,6 @@
     "action": "remove_word"
   },
   {
-    "word": "t8?쇱툩",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "t8?ъ툩",
     "type": "forbidden",
     "action": "remove_word"
@@ -8770,11 +7890,6 @@
     "action": "remove_word"
   },
   {
-    "word": "toopre?뺣퉬?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "trimmone",
     "type": "forbidden",
     "action": "remove_word"
@@ -8786,11 +7901,6 @@
   },
   {
     "word": "tsa002",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "tsunami?쎌떆",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -8985,11 +8095,6 @@
     "action": "remove_word"
   },
   {
-    "word": "媛諛⑹뒪?좊━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "媛?ㅽ봽",
     "type": "forbidden",
     "action": "remove_word"
@@ -9000,22 +8105,12 @@
     "action": "remove_word"
   },
   {
-    "word": "媛먯꽦?앹뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "媛쒕퀎援щℓ",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "媛쒗룷洹몃꽕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "嫄대떞?대텋",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9050,17 +8145,7 @@
     "action": "remove_word"
   },
   {
-    "word": "援먯젙?⑸쭏?곗뒪?쇱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "援ъ씠諛붾떎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "援?궛",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9080,32 +8165,7 @@
     "action": "remove_word"
   },
   {
-    "word": "洹몃??ㅼ??대뼸寃뚯궡寃껋씤媛dvd",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "洹몃??ㅼ??대뼸寃뚯궡寃껋씤媛lp",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "洹몃옉肄쒕젅?ㅼ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "洹몃옲?댁쭏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "洹몃젅?댁뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "洹몃줈諛뗫갑?μ??쒕벑",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9115,32 +8175,7 @@
     "action": "remove_word"
   },
   {
-    "word": "洹몃━?쒕씫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "洹몃┛?띿뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "洹몃┛?낆뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "湲?⑥퐫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "湲곌린1?대꼫?먰듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "湲곕룞?꾩궗",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9160,72 +8195,7 @@
     "action": "remove_word"
   },
   {
-    "word": "湲곗젅?좏띁",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "湲몃쾭?몃윮鍮꾧났",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "湲몄긽?덉콈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "瑗쇰뜲?덊듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "苑껋뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섎끂?덉씠10",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섎끂?ㅽ뵾??900",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섎Ⅴ?뷀띁?ㅻ꼸",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?숇뵲?먭린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?숈?二쇰굺",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?⑥そ?섎Т",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대궓?멸낵 寃고샎?댁쨾",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대궓?멸낵寃고샎?댁쨾",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?됰ℓ",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9235,92 +8205,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅼ궗由щ??곕뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅼ씠泥섎껙",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "?ㅼ씠爾먰븯?댄겕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅼ퐫留덉졇吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃쭔",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃컲14",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명긽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명떥?ъ뒪癒몄떊",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀쟾?섏젣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁쭏?쒕뱶?섑깭5a",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊띁?뚮룆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊룿肄붾룄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯옄怨좎퐫?ㅽ뒳",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅺ렇3耳?대툝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ（留덊뙣?대턿8",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ뒪踰좎씠?붿퐫?ㅽ뒳",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ씠?좉?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ν꽣?쒕젅",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9335,277 +8225,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?대같?뚰뭹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?밴?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀씪諛쒖넚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀씪異쒓퀬",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀씪異쒗븯",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀쭊?꾩옱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?由쇳솚",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "?붽뎄?⑥꽭?덈낫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒗듉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗삤?덇뎄?숆퀎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗씪由ъ븻",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗뭅?몃줎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?깆뒪肄쨐6",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨궇???싳떆?섏옄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨씪?먮そ",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆씪援ъ뒪?대텋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆씪援곕났",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆씪留ㅽ듃由ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆씪?띾뫁?댁뭡",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆씪?꾨뵒猷⑤뵒",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆씪?덉빟",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚭퀬?섏븞留덇린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯떛?щ㎤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?숇Ъ?섏댉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?숈긽?대そ",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱?紐곗씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "???몄쑀?덊뤌",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕씪?대찉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕옒怨ㅻ낵",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붾굹瑜대룄湲?щ툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붾뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿?由щ몢",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뷀벂?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕━?レ떛?됰낵",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?깆씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗콈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰뵲?쒖씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰컮誘?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱쫰踰좊━ ?뚯씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?띾퉬紐⑥옄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섑듃耳?댁?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒗꽩臾몃쭑?諛붾뒛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?⑥뒪?몄늻",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?щ툕荑좎뀡",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덇?由ъ뒪lt2000",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덇?由ъ뒪lt3000",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덇컝由ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈뱶?좊꽕?대룄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈え",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉뒪?ъ깋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉삤蹂닿렇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉샊",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉씠??5",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊듃濡쒖뒪",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9640,16 +8265,6 @@
     "action": "remove_word"
   },
   {
-    "word": "猷⑦듃?먯엲",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "猷몄옄?꾧굅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "瑜댁퓼瑜댁젣",
     "type": "forbidden",
     "action": "remove_word"
@@ -9660,27 +8275,12 @@
     "action": "remove_word"
   },
   {
-    "word": "由щ룄移댁씤?뚯뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "由щえ?",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "由щ쾭?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "由щ튃?섎”?꾨줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "由ы봽?덉돩?멸났?덈Ъ",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9710,32 +8310,7 @@
     "action": "remove_word"
   },
   {
-    "word": "留덈Ⅴ?뗭퐫?섎Ⅴ?덉뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "留덉깶?≪긽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留덉꽭?쇳떚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留덉닠?붾텇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留덉삤??댁옍",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留덉슫?댄븯?댁빱",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9745,47 +8320,12 @@
     "action": "remove_word"
   },
   {
-    "word": "留덉씠?꾨ぐ",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "留덉씠諛뷀쓲荑좎뀡",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "留덉씠?대?釉붾젅lp",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留덉씤?щ옒?꾪듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留덉툩?섍?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留뚮뒫?쇳겢由щ꼫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "留앷퀬荑좊줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留ㅺ렇?덉뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留ㅼ떎?쎄낵",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9796,11 +8336,6 @@
   },
   {
     "word": "留μ??ㅽ떞",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留⑥떆?고듃?숉깙",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9816,11 +8351,6 @@
   },
   {
     "word": "留⑥쑀?吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "留⑥쑀?몄?",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9845,27 +8375,7 @@
     "action": "remove_word"
   },
   {
-    "word": "癒쇱옉洹?댁슂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "癒쇱옉洹?대텋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "硫붾뵒?먰넗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "硫붿쥌284",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "硫뷀깉移대뱶?쒖옉",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -9920,36 +8430,6 @@
     "action": "remove_word"
   },
   {
-    "word": "紐⑥쑀?섏쑀?좎샆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "紐⑥씠?щ굹?댄듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "紐⑦넗?쇱씤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "紐⑺솕?쒖슂?명듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "紐곕뱶釉뚮씪?붿뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "紐쎌씠?뺤썝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "臾대즺",
     "type": "forbidden",
     "action": "remove_word"
@@ -9960,27 +8440,7 @@
     "action": "remove_word"
   },
   {
-    "word": "臾댁씤?묓뭹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "臾댄븯留덈뱶?뚮━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "臾댄븳?좎꽦",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "臾몄떊",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "臾몄퐬?쒓굅",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10005,32 +8465,12 @@
     "action": "remove_word"
   },
   {
-    "word": "誘몃땲?몄쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "誘몄뎽由고??댁뼱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "誘몄떇異뺢뎄",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "誘몄벐鍮꾩떆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "誘몄빞?먰궎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "誘몄퓼肄붿뒪?꾨젅",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10045,42 +8485,7 @@
     "action": "remove_word"
   },
   {
-    "word": "誘쇰Ъ?곗콈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "諛?뚰궎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "諛붿슦?댄뙆?명듃?섎낫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "諛붿뭅?뤿뵒耳꾪꽣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "諛뷀넗移큦4",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "諛뺥븯?ы깢釉붾（?덉씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "諛쒕젋?쒖븘媛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "諛쒕젋?곕끂",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10095,37 +8500,12 @@
     "action": "remove_word"
   },
   {
-    "word": "諛깆“?쏀겕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "踰꾧굔?뷀옄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "踰꾨꼫",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "踰꾨??섎씪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "踰꾪봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "踰좉?移댁꽭?덉뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "踰좎뒳?쇨렇",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10150,42 +8530,12 @@
     "action": "remove_word"
   },
   {
-    "word": "踰≫듃?펚2",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "踰⑤씪?쒖뿕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "蹂대엫",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "蹂대즺?대텋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "蹂대낫?쇱쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "蹂댁빞",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "蹂듭쓬?섎え?덉뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "蹂쇰낫rc?ы겕?덉씤",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10205,11 +8555,6 @@
     "action": "remove_word"
   },
   {
-    "word": "遺덈뤌吏?몃젅?댁꽌",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "釉뚮┃踰좎뼱",
     "type": "forbidden",
     "action": "remove_word"
@@ -10220,42 +8565,12 @@
     "action": "remove_word"
   },
   {
-    "word": "釉붾옓?꾨룄?고썑由ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "釉붾옓?꾪샇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "釉붾옓?묓겕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "釉붾（蹂댄?",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "釉붾（?꾩뭅?대툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "釉붾쭅釉붾쭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "鍮꾧퀬?쐔4pro",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "鍮꾧퀬?쐔4?꾨줈",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10280,11 +8595,6 @@
     "action": "remove_word"
   },
   {
-    "word": "鍮꾩삤?쇳댘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "鍮꾪?",
     "type": "forbidden",
     "action": "remove_word"
@@ -10300,22 +8610,12 @@
     "action": "remove_word"
   },
   {
-    "word": "鍮낇엳?몄떊?섑룊?먭린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "鍮덊떚吏留뚮뀈?щ젰",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "鍮붿쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "鍮쏅굹?붾룎",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10330,56 +8630,6 @@
     "action": "remove_word"
   },
   {
-    "word": "?쇱꽦?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱떆?몃겮",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?욱룷濡쒖삤瑜닿낏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈겮",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮윭?쒕쭏?ㅽ꽣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮윭?쒕쭏?ㅽ꽣?꾨퉬",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮윭?쒕쭏?ㅽ꽣癒몄떊",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮윭?쒕쭏?ㅽ꽣梨꾩뭡",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섑뵆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ??쇳넗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅽ겕",
     "type": "forbidden",
     "action": "remove_word"
@@ -10390,127 +8640,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?뱁겕?ㅽ뵾洹쒖뼱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒗걧踰꾩뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?앷턿",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?멸?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄씪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀떆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇨낵",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱깶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇳꽣?쇳꽣而ㅻ쾭",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?由곕뒓",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮씪?쇰쭏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮?以꾨컮吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚰뭹?대같",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚰봽?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뷀듃?뚰꽣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕툕?덈줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏엯?대같",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒗넗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊띁?뚮땳",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮씪?댄엳",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ꽕?쇱돇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ쐞?ㅼ뭅?곕꺼",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ쫰?ㅻ씪?대뜑?먯폆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ뭅?덉븘而ㅽ듉",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10525,27 +8655,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅼ?濡쒖퓼?명삎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ퐫?댁퐫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅽ궎?앷퀬",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅽ뀗?ㅽ봽留곹?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅽ뒠?쒕쿋?댁빱",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10555,17 +8665,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅽ뙆?⑦겢?섏떇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅽ럡蹂댁씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅽ럹?댁뒪X",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10575,87 +8675,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅽ룷?뚮씪?쒓쾾?⑤뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅽ봽留곷컮?ㅼ뭅?대씪?대꼫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?щ옩?⑺겕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕굹紐⑤·",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕굹紐щ·?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒖뒪?좏뙋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒖뼱留곸뒳由ы띁",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좎쑀鍮덊긽援ъ콈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좎쑀鍮덊긽援ы솕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ쭅?곸뒪?뚮㉧",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ쭅?곸뒪?꾧린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?띾뫁?닿컻紐⑥감",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?띾뫁?댁뭡媛덉씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?띾뫁?댁뭡怨쇰룄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ы띁?덉쿂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곕━?섎퉬",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?④쾶?댄듃",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -10665,327 +8685,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?꾧린諛붾엺",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨뜑?먮윭",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨쑉由щ뵒?먯씤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨씈瑗대줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨씪鍮꾩뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨줈留덉뻐",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨찓由ъ떎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒪媛瑜대뱶7.1",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒪?좎졇吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒪?쇰떎rc",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒪?몃줉??8dpro",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒪?곗뿉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒳?덊?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩빞?ㅼ삤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩삤諛붿짛?ъ씠?몄?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩썐??ㅽ겕?쒗꽩",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩씠?뚯슜吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩씠?몃㎤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩씠?명넻而ㅻ쾭",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩씤?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뭅由?a",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뺨?몃윭",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾪겕由댄넚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆꽭?ㅽ썑濡쒖븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덇꼍",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊떚?고띁",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뷀럹濡??ㅽ뀒?댁?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ뱶?먮뜑",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇨뎄?좎닔移대뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱뒪?덈줈?좊컻",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱뿏荑좎빱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?닿렇戮湲?대갚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대뱶踰ㅽ듃罹섎┛??024",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대깽?몄뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰씪?몃옪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮뱶踰뚮，",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮씪?ㅼ퐫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮Ⅴ?댁슂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮??쒖씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮쾭?닿렇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뒪?뚯퐯?쒗듃釉붾（?덉씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뼱源곸뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뼱?먰듃12y",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뼱?먰듃17.2",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뼱?먰듃8.5",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뼱?ы듃?붾텇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯퐫踰꾨뵒",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯퐫?먯뼇媛二쏀궎?믪씠而댄룷?명솕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먰넗?ㅻ낵留곴났",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?묓넗瑜댄봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붾퉬?붿븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊퉬鍮꾩뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곷룄留덉폆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곸뼱遊됲닾紐⑥쓽怨좎궗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곸씠?섏댉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅺ??됱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅻ꼫癒쇳듃",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "?ㅻ꼫?대옖",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅻ땲吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ땲痢좎뭅??닿굅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ뵒?몄씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ줈?곗뭅?섎컮",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ━?붾?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ━?뷀깉?쒕┝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ솃?쇳?釉붾윭",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11000,11 +8705,6 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅽ궎??뚭퀬?덈?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅽ넗留덊?",
     "type": "forbidden",
     "action": "remove_word"
@@ -11015,302 +8715,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?щ┝?쇱븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ы룷由ы봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?듯떚誘몄뒪?깅윭?덉뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?멸뎅?숈쟾?쇨큵",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿븘?뚮퉬thebook",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿븘?뚮퉬釉붾（?덉씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿븘?뚮퉬?⑤쾾",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿뭅?ㅺ??щ툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뺤갹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗뒪?댁뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗뒪?섎━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?고??먰듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃?吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명뀒洹몃씪4000xg",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?띿뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯떊",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯쭊?ㅽ뒠?붿삤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?⑥씠?몃쭏?곗뒪?쇱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?⑥??곕뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곕줎?대텋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨땲利덈옪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨떇湲?щ툕10?⑥뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨떇諛깃??щ툕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉껜?ㅽ꽣m1894",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊깽?ъ뒪諛붾엺留됱씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좎삤?ㅼ쑀",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좏뀗?ㅻ줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "??섏쿋??99dvd",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "??펊d",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?닿렇吏?ㅽ듃2500sdh",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?닿??닿??덇렇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대땲?쐂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대졊?쒖빟",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대줈移댁꽟?좎쑀?곗젣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대챸",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁궗臾대끂援ъ튂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁삤?쒖뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁퐫留μ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댄샎?숇젮罹좏봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄궗?대뱶?꾩썐2",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명꽣?룹뾾?봠ctv",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰（?쇰（",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯寃뚮Ⅴ留덈뒆?뚯뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯援ъ뒪?대텋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯援ъ떖",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯?싳떆?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯?ъ옄?명삎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯?⑥?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯吏곴뎄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯移섏퓼?섏씤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯?먰듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰낯??덉젒李⑹젣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뒪誘쇱감",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먯뭅??ㅺ퐙",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먰럹?쇰끂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?묒궡",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?μ넚?섑봽由щ젋?꾧텒",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?μ닔泥?젙留덉쓣",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11320,72 +8725,12 @@
     "action": "remove_word"
   },
   {
-    "word": "??굹?댄봽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈뵓?ㅻ낵?뚮Ⅴ",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩냽?μ껜?몃쭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?묒씠?앸?瑜댁뒪?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕꽕?앷??ㅺ??닿?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕??뚯뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒖슦?ㅻ옪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒖씠而ㅼ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좏븯?댁?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "議곗궗蹂묐떒",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
-    "word": "議곗꽑?명뀛援ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "議곗쁺",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "議곗씠?좎씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "議곗씠?몃줎",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11415,21 +8760,6 @@
     "action": "remove_word"
   },
   {
-    "word": "二쇰Ц?쒖옉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "二쇱닠?뚯쟾",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "二쇳넗?쇱븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "以묎뎅嫄대떞",
     "type": "forbidden",
     "action": "remove_word"
@@ -11441,16 +8771,6 @@
   },
   {
     "word": "利앹젙",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "吏?몃━?붾퀝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "吏猶곌퀎?좊컻",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11490,27 +8810,7 @@
     "action": "remove_word"
   },
   {
-    "word": "吏덉쭊?숆린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "吏?뵆?뚯튂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "彛앷텋?꾩옱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "李⑤땲湲濡쒕쾶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "李⑸쭏?곷쭏",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11525,27 +8825,7 @@
     "action": "remove_word"
   },
   {
-    "word": "泥좎빞???몃옒",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "泥댁씤?뚮㎤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "珥덇껐媛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "珥덈벑?숆탳",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "珥덉쓬?뚯꽭泥숆린?⑹븸",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11595,21 +8875,6 @@
     "action": "remove_word"
   },
   {
-    "word": "移섏퓼?섏씤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "移섑뙆?좊━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "移섑뙆?먮━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "移좎꽦寃",
     "type": "forbidden",
     "action": "remove_word"
@@ -11620,17 +8885,7 @@
     "action": "remove_word"
   },
   {
-    "word": "移닿뎄?쇰え紐⑥뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "移대뱶罹≫꽣泥대━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "移대씪?ㅻ끂?몄?",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11645,37 +8900,7 @@
     "action": "remove_word"
   },
   {
-    "word": "移댁뭅?ㅽ봽?뚯쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "移댄뀛?쇰땲",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "移댄넗?쇱븘up600",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "移댄봽?쇰땲",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "移쇰（?댁깋?고븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "罹됯낏??04",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "罹먮끂?쎌뒪",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11685,37 +8910,7 @@
     "action": "remove_word"
   },
   {
-    "word": "罹먮━?붿꽑",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "罹먮━?붿뜫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "罹먮┃罹먮┃泥댁씤吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "罹먯떆誘몄뼱?꾩슜?몄젣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "罹섏떆?쇰Т?쒕벑",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "而ㅽ겢?쒕뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "耳?댄닾",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11735,11 +8930,6 @@
     "action": "remove_word"
   },
   {
-    "word": "肄붾젏?쇱씤dvd",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "肄붾쭔?⑦뀒c40",
     "type": "forbidden",
     "action": "remove_word"
@@ -11750,22 +8940,7 @@
     "action": "remove_word"
   },
   {
-    "word": "肄붿뒪?몄퐫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "肄붿뒪?꾨젅?뚯쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "肄붿??",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "肄붿퐫?곗뒪",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11780,17 +8955,7 @@
     "action": "remove_word"
   },
   {
-    "word": "肄섑겕由ы듃??뺤킑",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "肄쒕㎤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "肄㏓Ъ?명삎",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11815,22 +8980,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?댁뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?щ젅?꾧린?ν뙋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?щ줈?ㅽ븦?⑥튂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?щ＼?섏툩",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11840,22 +8990,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅻ찓?쇱쐟",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?ㅼ슦",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ쫰援ъ뒪?대텋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ쫰?쇨뎄諛붿?",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11875,27 +9010,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?밸늻cd",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?밸툝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "??몄뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?誘몃컲吏묒뾽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?誘몄쭛?낃??붽굔",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -11910,92 +9025,7 @@
     "action": "remove_word"
   },
   {
-    "word": "??댄?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "??뺢린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?耳媛?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "??몄퐫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곴뎄蹂듬툕?쒕뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾪뵾諛곗텧",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈┸",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒓뎅吏꾩＜",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒖쭠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?고봽洹몃┰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮씪由ъ??쒓퍚",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮씪由ъ?諛깆뒪?щ┛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮Т?쇳뙆而ㅻ쾭",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯쭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊??먯??쇳뀗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좎씠利덈㎘肄붿씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좏븨",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ쭏?ㅽ꽣?꾨줈",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12005,142 +9035,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?곌낵?쒕━?ㅻ끂?곕낵",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곌낵?쒕━?꾪넻",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곸냼",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃씪?댄뤃?쒕８",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃씪?댄뤃?쒖쟾湲곗옄?꾧굅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몃옞由ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄쐢?뚯썙14000xg",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀쟾?ъ꽑湲?쇱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명똿?댄뀒?대툝",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?낆깶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮굹?뚮땳",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮━?앹젣瑜대쭩諛붾엺留됱씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯뒪?몃쭚諛붾엺留됱씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯썙?덉씤?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯씠?섎?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯씠?대꽕?대룄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯씤??쇳겕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯큹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚰뙆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먮떎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿틺",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?щ뜑",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾪듉",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섎（?먯큹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏뒪痢꾨━濡ㅻ윭",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏씠?ㅼ뒪?곕㉧",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊━?쒗?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명씈紐⑦삎",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12165,21 +9060,6 @@
     "action": "remove_word"
   },
   {
-    "word": "?쇳뤌?몃┛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄뒪諛대뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄뿉怨좊났?깊솕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "??ㅽ궓諛랁겕",
     "type": "forbidden",
     "action": "remove_word"
@@ -12190,362 +9070,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?꾨씪?댁쫰留?6oz",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨젅吏媛援ш킅?앹젣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨줈?꾪뀒?쇰━?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨줈紐ы뀒?먰듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨줈利뚯퐯",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨┫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚣꽮",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮옖?몃줈?됱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮젅?꾪넗?댁쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮젆?쒖퐫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮줈?댄겢由щ꼫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮（?곕뱶",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰줈?곗냽吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰컮?몃컮",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇰쾭?몃컮",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱뿉瑜닿?瑜대럢",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱뿕?쇰깽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱삤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱뭅遺?ㅽ듃",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱퐫?꾩뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇳듃?쇱씤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇳뵾?ㅽ듃?먮줈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쎌떆pxe80",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쎌떆?붿뒪?ы쑀",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쎌떙",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?묎굅?ㅽ?吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏빞??덈굹?쇱폆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏씠?됱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏씠?쒕줈?뷀븨",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏씠?먭났?앹졇吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏씠?먯?吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏씠?먯졇吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섑듃?대텋",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕겮?듭궡",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕났蹂댁젙?띿샆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒖넄?쇰젆?몃줈?됱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좊━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대━?ы꽣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?댁쇅吏곴뎄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?됲뀗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚰꽣",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅻ━?곗?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ씠?섏옄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?щ━?뱀뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뱀펷",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곸떊?섏떆?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨?hmall",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄＜",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄＜?닿렇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?몄뭅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명뿴",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?띾뵒?덉뭅?몃━吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿꽍怨쇱옄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿뒪?덇굔",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿뒪?덉킑",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿빟??뺤킑",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯삦?μ젅釉붾（?덉씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯뭡",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?⑤룄?섏옄",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨ː?쒕㎤",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "??ㅽ넠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏꽱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?좎벙60mm",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곕뫁?댁쭛",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗닔?쇳뵾洹쒖뼱",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈뱺?쇱뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉궗誘몄툩?뚯뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덊룷",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?먰듉援ъ뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?ㅼ씠留덊??댁쫰",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쒕━?쒖튂",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗떆援ъ븣",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12565,27 +9090,12 @@
     "action": "remove_word"
   },
   {
-    "word": "?뚮줈?붽?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "怨좎뒪?몄?吏",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "DONNER",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "Positive Grid",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?섏씠?쇱뒪",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12600,11 +9110,6 @@
     "action": "remove_word"
   },
   {
-    "word": "?묓닾",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "dobby",
     "type": "forbidden",
     "action": "remove_word"
@@ -12615,37 +9120,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅻ컮?덉븞?멸린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚮젆?ㅽ넠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "寃쎈웾李뚮굾?쒕?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩슂?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾨쭏移쒓뎄?꾨뱾",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "源吏?",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "臾댁씤?꾩쓽?붾컮",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12655,22 +9130,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?쇰쭏?먰궎",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "ResMed",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱? 紐곗씠",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?깃??щⅤ",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12685,27 +9145,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?꾨━誘몄뼱由ш렇",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쎌떆",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩? ?꾨쫫",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "Eheim",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "濡?肄붿뒪?꾨젅",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12720,22 +9160,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?ㅼ쫰?섎쭏踰뺤궗",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "由ъ감??吏?몃━",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "KWG",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덈줈?ㅻ컮",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12795,17 +9220,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?낆씪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "garmin",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "湲덉??곹뭹",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12816,21 +9231,6 @@
   },
   {
     "word": "olzen",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?곗쭊紐⑦뵾",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?명꽣硫붿“",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붿젮",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12860,16 +9260,6 @@
     "action": "remove_word"
   },
   {
-    "word": "?뚮씪?댁븘",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚯껜?ㅺ?諛붾굹",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "釉뚮（?щ줈荑좎튂?щ━",
     "type": "forbidden",
     "action": "remove_word"
@@ -12885,17 +9275,7 @@
     "action": "remove_word"
   },
   {
-    "word": "?щ━?몄뒪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "Liebeskind",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?덉뒪?뚮┃湲?섎㉧",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12906,11 +9286,6 @@
   },
   {
     "word": "JETPILOT",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?붾줈踰좎뼱",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12930,22 +9305,12 @@
     "action": "remove_word"
   },
   {
-    "word": "CP 寃?쇰땲",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "Alex Zono",
     "type": "forbidden",
     "action": "remove_word"
   },
   {
     "word": "A.PRESSE",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾪봽?덉럡",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -12965,21 +9330,6 @@
     "action": "remove_word"
   },
   {
-    "word": "遺?좊씪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?대컮?좊젅",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?뚰뙆?ㅼ틪",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "?≪넀",
     "type": "forbidden",
     "action": "remove_word"
@@ -12991,16 +9341,6 @@
   },
   {
     "word": "Seagate",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?쇱씡?낃린",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "?꾩씠由щ뜑",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -13906,11 +10246,6 @@
   },
   {
     "word": "나이트",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "나이프",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -16971,11 +13306,6 @@
   },
   {
     "word": "빵빵덕",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "뽀로로",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -23611,11 +19941,6 @@
   },
   {
     "word": "DNP",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "dod",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -33206,11 +29531,6 @@
   },
   {
     "word": "비데",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "빈티지",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -43305,11 +39625,6 @@
     "action": "remove_word"
   },
   {
-    "word": "뽀로로볼링",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "뽀시래기",
     "type": "forbidden",
     "action": "remove_word"
@@ -52225,11 +48540,6 @@
     "action": "remove_word"
   },
   {
-    "word": "헹켈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "현 조 가 위",
     "type": "forbidden",
     "action": "remove_word"
@@ -53046,11 +49356,6 @@
   },
   {
     "word": "카니발",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "레이",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -55416,11 +51721,6 @@
   },
   {
     "word": "어그슬리퍼",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "아동용",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -64310,11 +60610,6 @@
     "action": "remove_word"
   },
   {
-    "word": "드롱기",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "드리미",
     "type": "forbidden",
     "action": "remove_word"
@@ -68700,11 +64995,6 @@
     "action": "remove_word"
   },
   {
-    "word": "스크",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "스크라인",
     "type": "forbidden",
     "action": "remove_word"
@@ -68756,11 +65046,6 @@
   },
   {
     "word": "스털링",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "스테",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -73815,11 +70100,6 @@
     "action": "remove_word"
   },
   {
-    "word": "테이",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "테일러메이드 어패럴",
     "type": "forbidden",
     "action": "remove_word"
@@ -74191,11 +70471,6 @@
   },
   {
     "word": "티즈",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "티지",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -76931,11 +73206,6 @@
   },
   {
     "word": "다한증",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "단도",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -82728,5 +78998,454 @@
     "word": "엘피 바이닐",
     "type": "forbidden",
     "action": "remove_word"
+  },
+  {
+    "word": "닌자",
+    "type": "brand_token"
+  },
+  {
+    "word": "(관부가세포함)",
+    "type": "forbidden"
+  },
+  {
+    "word": "(관부가세 포함)",
+    "type": "forbidden"
+  },
+  {
+    "word": "관부가세세포함",
+    "type": "forbidden"
+  },
+  {
+    "word": "아동용",
+    "type": "brand_token"
+  },
+  {
+    "word": "드롱기",
+    "type": "brand_token"
+  },
+  {
+    "word": "DOD",
+    "type": "brand_token"
+  },
+  {
+    "word": "메누토르소",
+    "type": "brand_token"
+  },
+  {
+    "word": "나카시마",
+    "type": "brand_token"
+  },
+  {
+    "word": "전참시",
+    "type": "forbidden"
+  },
+  {
+    "word": "뽀로로",
+    "type": "brand_token"
+  },
+  {
+    "word": "뽀로로펜",
+    "type": "brand_token"
+  },
+  {
+    "word": "뽀로로볼링",
+    "type": "brand_token"
+  },
+  {
+    "word": "헹켈",
+    "type": "brand_token"
+  },
+  {
+    "word": "즈윌링",
+    "type": "brand_token"
+  },
+  {
+    "word": "드부이에",
+    "type": "brand_token"
+  },
+  {
+    "word": "일본 구매 대행",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "과도",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "단도",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "중식도",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "식칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "과일칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "부엌칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "주방칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "주방용칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "전문가칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "일본칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "일본식칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "나키리",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "페티",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "나이프",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "페티나이프",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "산토쿠",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "빵칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "스테이크칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "필레나이프",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "셰프나이프",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "요리칼",
+    "type": "category_word",
+    "action": "category_clear_row"
+  },
+  {
+    "word": "JURA",
+    "type": "brand_token",
+    "action": "brand_clear_row"
+  },
+  {
+    "word": "독일내수용",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "맥캘란",
+    "type": "brand"
+  },
+  {
+    "word": "Lalique",
+    "type": "brand"
+  },
+  {
+    "word": "lalique",
+    "type": "brand"
+  },
+  {
+    "word": "라리끄",
+    "type": "brand"
+  },
+  {
+    "word": "YAMAHA",
+    "type": "brand"
+  },
+  {
+    "word": "Yamaha",
+    "type": "brand"
+  },
+  {
+    "word": "Marshall",
+    "type": "brand"
+  },
+  {
+    "word": "Pearl",
+    "type": "brand"
+  },
+  {
+    "word": "PEARL",
+    "type": "brand"
+  },
+  {
+    "word": "Fishman",
+    "type": "brand"
+  },
+  {
+    "word": "FISHMAN",
+    "type": "brand"
+  },
+  {
+    "word": "MANHASSET",
+    "type": "brand"
+  },
+  {
+    "word": "Manhasset",
+    "type": "brand"
+  },
+  {
+    "word": "polaroid",
+    "type": "brand"
+  },
+  {
+    "word": "Polaroid",
+    "type": "brand"
+  },
+  {
+    "word": "Wera",
+    "type": "brand"
+  },
+  {
+    "word": "WERA",
+    "type": "brand"
+  },
+  {
+    "word": "DEWALT",
+    "type": "brand"
+  },
+  {
+    "word": "DeWalt",
+    "type": "brand"
+  },
+  {
+    "word": "FESTO",
+    "type": "brand"
+  },
+  {
+    "word": "Festo",
+    "type": "brand"
+  },
+  {
+    "word": "Dwyer",
+    "type": "brand"
+  },
+  {
+    "word": "DWYER",
+    "type": "brand"
+  },
+  {
+    "word": "Crucial",
+    "type": "brand"
+  },
+  {
+    "word": "CRUCIAL",
+    "type": "brand"
+  },
+  {
+    "word": "DELL",
+    "type": "brand"
+  },
+  {
+    "word": "Dell",
+    "type": "brand"
+  },
+  {
+    "word": "HIBY",
+    "type": "brand"
+  },
+  {
+    "word": "HiBy",
+    "type": "brand"
+  },
+  {
+    "word": "Cayin",
+    "type": "brand"
+  },
+  {
+    "word": "CAYIN",
+    "type": "brand"
+  },
+  {
+    "word": "LARS",
+    "type": "brand"
+  },
+  {
+    "word": "MXR",
+    "type": "brand"
+  },
+  {
+    "word": "DUNLOP",
+    "type": "brand"
+  },
+  {
+    "word": "Dunlop",
+    "type": "brand"
+  },
+  {
+    "word": "KURZWEIL",
+    "type": "brand"
+  },
+  {
+    "word": "Kurzweil",
+    "type": "brand"
+  },
+  {
+    "word": "Airweave",
+    "type": "brand"
+  },
+  {
+    "word": "AIRWEAVE",
+    "type": "brand"
+  },
+  {
+    "word": "Stanley",
+    "type": "brand"
+  },
+  {
+    "word": "Rommelsbacher",
+    "type": "brand"
+  },
+  {
+    "word": "Telefunken",
+    "type": "brand"
+  },
+  {
+    "word": "TELEFUNKEN",
+    "type": "brand"
+  },
+  {
+    "word": "SVBONY",
+    "type": "brand"
+  },
+  {
+    "word": "PIXPRO",
+    "type": "brand"
+  },
+  {
+    "word": "WIRAL",
+    "type": "brand"
+  },
+  {
+    "word": "Brightin Star",
+    "type": "brand"
+  },
+  {
+    "word": "페르지아",
+    "type": "brand"
+  },
+  {
+    "word": "일월",
+    "type": "brand"
+  },
+  {
+    "word": "빅토리녹스",
+    "type": "brand"
+  },
+  {
+    "word": "밀리타",
+    "type": "brand"
+  },
+  {
+    "word": "파라오마켓",
+    "type": "brand"
+  },
+  {
+    "word": "맨하셋",
+    "type": "brand"
+  },
+  {
+    "word": "하니웰",
+    "type": "brand"
+  },
+  {
+    "word": "Honeywell",
+    "type": "brand"
+  },
+  {
+    "word": "HONEYWELL",
+    "type": "brand"
+  },
+  {
+    "word": "팬앤코",
+    "type": "brand"
+  },
+  {
+    "word": "비버크래프트",
+    "type": "brand"
+  },
+  {
+    "word": "듀로",
+    "type": "brand"
+  },
+  {
+    "word": "스위프트홀스",
+    "type": "brand"
+  },
+  {
+    "word": "카본콜렉티브",
+    "type": "brand"
+  },
+  {
+    "word": "Carbon Collective",
+    "type": "brand"
+  },
+  {
+    "word": "프로텍메디칼",
+    "type": "brand"
+  },
+  {
+    "word": "HESPLUS",
+    "type": "brand"
+  },
+  {
+    "word": "ELOD",
+    "type": "brand"
+  },
+  {
+    "word": "에이수스",
+    "type": "brand",
+    "action": "clear_row"
   }
 ]

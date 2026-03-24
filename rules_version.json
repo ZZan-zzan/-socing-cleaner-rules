@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2026-03-18",
+  "version": "1.1.0",
+  "updated_at": "2026-03-24",
   "files": [
     "dictionary_base.json",
     "mall_name.json",
     "category_filter_terms.json"
   ],
-  "changelog": "초기 버전"
+  "changelog": "사전 업데이트 (에이수스 등 추가)"
 }
