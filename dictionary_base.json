@@ -79447,5 +79447,55 @@
     "word": "에이수스",
     "type": "brand",
     "action": "clear_row"
+  },
+  {
+    "word": "TopSeller",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "고바야시",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "레이",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "머슬피크",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "빈티지",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "스크",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "스테",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "테이",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "티지",
+    "type": "forbidden",
+    "action": "remove_word"
+  },
+  {
+    "word": "호무로",
+    "type": "forbidden",
+    "action": "remove_word"
   }
 ]
