@@ -1,10 +1,10 @@
 {
-  "version": "1.1.2",
-  "updated_at": "2026-03-24",
+  "version": "1.1.3",
+  "updated_at": "2026-03-25",
   "files": [
     "dictionary_base.json",
     "mall_name.json",
     "category_filter_terms.json"
   ],
-  "changelog": "사전 업데이트 (오키츠모, 쿠오카, 치요다, A&J)"
+  "changelog": "브랜드 2,000개 brand_token 일괄 적용"
 }
